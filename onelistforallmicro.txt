@@ -4,6 +4,8 @@ cfdocs
 cgi-915/pagelog.cgi
 opc/services/brokerserviceintfport/wsdl
 search-ui
+birt-viewer
+birt-viewer/frameset
 lawrence
 .badsegment.log
 sezioni/1006/test
@@ -5976,6 +5978,7 @@ static/js/main.js.map
 sym.php
 datas
 actuator/exportRegisteredServices
+postman_collection.json
 app/config/pimcore/google-api-private-key.json
 exe
 isadmin.html
@@ -7465,6 +7468,7 @@ steve
 .idea/datasources.local.xml
 index.php/_login/in
 sql/webdb/index.php
+insomnia
 database/.env
 feedback.php
 vault-config.hcl
@@ -13184,6 +13188,7 @@ privacyware
 openapi.json
 mpcgi/talkback.cgi
 etcd-events.log
+docker-compose
 static_root/.env
 sign-out.html
 update-angular.sh
@@ -32717,6 +32722,7 @@ vote.sql
 oreilly
 server/storage
 sql/phpmanager
+__clockwork
 lesstif
 openbor
 wp-config.in
@@ -32962,6 +32968,8 @@ answers/error_log
 footer_admin
 wp-config.php.tar.gz
 admin/js/tiny_mce/
+_debugbar/assets/stylesheets
+_debugbar
 openftpd
 india
 bodo
